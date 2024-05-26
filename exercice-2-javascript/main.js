@@ -7,6 +7,6 @@ const data = [
     {name: "Howard", age: 30, job: "Software Engineer"},
 ]
 
-function filterAndConcatenateData(data) {
+function calculateTotalRevenue(data) {
     /* implement function */
 }
